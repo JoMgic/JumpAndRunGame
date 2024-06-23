@@ -1,0 +1,8 @@
+<x>200</x><y>400</y><width>200</width><height>20</height>
+<x>600</x><y>100</y><width>200</width><height>20</height>
+<x>200</x><y>200</y><width>200</width><height>20</height>
+<x>600</x><y>300</y><width>200</width><height>20</height>
+<x>1000</x><y>200</y><width>300</width><height>40</height>
+<x>200</x><y>600</y><width>200</width><height>20</height>
+<x>600</x><y>500</y><width>200</width><height>20</height>
+<x>600</x><y>700</y><width>200</width><height>20</height>
